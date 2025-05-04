@@ -30,4 +30,4 @@ Feel free to fork any of my projects or suggest improvements through issues and 
 
 ## Contact
 
-You can reach me at [nicolas.castro.palma@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-castro-palma-324071274/).
+You can reach me at [Gmail](nicolas.castro.palma@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-castro-palma-324071274/).

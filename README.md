@@ -16,7 +16,7 @@ Here are some of the main projects you can find in this repository:
 
 - Data Analysis & Visualization (Python, R, Excel)
 - Predictive Modeling & Machine Learning (Scikit-learn, TensorFlow)
-- Business Intelligence (Power BI, Tableau)
+- Business Intelligence (Power BI)
 - Statistical Analysis
 
 ## Education

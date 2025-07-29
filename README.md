@@ -1,33 +1,41 @@
-# Business Analytics & Consulting Projects
+# Data Science & Quantitative Finance Projects
 
-Welcome to my GitHub repository! I am an aspiring Business Analyst specializing in consulting projects. Currently, I am studying Industrial Engineering and Informatics Engineering, which provide me with a unique blend of technical and analytical skills. In this repository, you will find various projects related to business analysis, data analytics, and predictive modeling.
+Welcome to my GitHub repository! I am an aspiring **Data Scientist** with a strong focus on **Quantitative Finance** and **Predictive Analytics**. My work combines statistical modeling, machine learning, and financial theory to build data-driven solutions for complex problems in markets and business.
+
+## Career Objective
+
+My goal is to pursue a career at the intersection of **data science, finance, and technology**, leveraging advanced analytics to drive better investment strategies and financial decision-making. I am particularly interested in **quantitative research**, **algorithmic trading**, and **machine learning applications** in capital markets, fintech, and hedge funds.
 
 ## About Me
 
-I am passionate about using data to solve real-world business problems. My academic background in both Industrial Engineering and Informatics Engineering gives me a solid foundation in process optimization, data-driven decision-making, and systems analysis. I am keen to apply my skills in consulting, helping businesses make informed, data-backed decisions.
+I am currently pursuing dual degrees in **Industrial Engineering** and **Informatics Engineering**, which equip me with both analytical and computational skills. My interests lie in applying **data science**, **algorithmic trading strategies**, and **financial modeling** to extract insights and create actionable value in finance and beyond.
 
-## Projects
+I am passionate about leveraging **data-driven approaches** to uncover patterns in financial markets, optimize investment decisions, and explore cutting-edge techniques in **quantitative analysis** and **machine learning**.
 
-Here are some of the main projects you can find in this repository:
+## Featured Projects
 
-- **PGA Tour Predictive Analysis**: A project aimed at predicting the most likely winner of a PGA Tour tournament based on historical player and tournament data.
+- **PGA Tour Predictive Analytics**: Predicting golf tournament outcomes using historical performance data and machine learning models.  
+- **Quantitative Stock Valuation**: Automated valuation framework combining **DCF**, **multiples analysis**, and **Monte Carlo simulations** in Python/R.  
+- **Algorithmic Trading Strategy**: Developing a swing trading model with backtesting, risk metrics (Sharpe, Calmar, CAGR), and a Shiny dashboard for visualization.  
+- **F1 Race Prediction Model**: Machine learning model predicting team performance and comparing outputs with sportsbook odds to identify value bets.
 
 ## Skills
 
-- Data Analysis & Visualization (Python, R, Excel)
-- Predictive Modeling & Machine Learning (Scikit-learn, TensorFlow)
-- Business Intelligence (Power BI)
-- Statistical Analysis
+- **Programming & Data Science**: Python (Pandas, Scikit-learn, TensorFlow), R (tidyverse, tidymodels), SQL  
+- **Quantitative Finance**: Valuation (DCF & Multiples), Portfolio Optimization, Algorithmic Trading, Risk Metrics  
+- **Data Engineering & Visualization**: API integration, data pipelines, and dashboards (Power BI, Shiny, matplotlib)  
+- **Statistical Analysis & Predictive Modeling**: Regression, classification, time series forecasting, simulation methods
 
 ## Education
 
-- **Bachelor’s Degree in Industrial Engineering** (Ongoing)
-- **Bachelor’s Degree in Informatics Engineering** (Ongoing)
+- **Bachelor’s Degree in Industrial Engineering** *(Ongoing)*  
+- **Bachelor’s Degree in Informatics Engineering (Data Science specialization)** *(Ongoing)*  
 
-## How to Contribute
+## How to Collaborate
 
-Feel free to fork any of my projects or suggest improvements through issues and pull requests. Collaboration and feedback are highly appreciated!
+I welcome contributions, ideas, and collaboration on open-source finance and data science projects. Feel free to **fork any repository** or open issues for discussion!
 
 ## Contact
 
-You can reach me at [Gmail](nicolas.castro.palma@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-castro-palma-324071274/).
+[nicolas.castro.palma@gmail.com](mailto:nicolas.castro.palma@gmail.com)  
+[linkedin.com/in/nicolás-castro-palma-324071274](https://www.linkedin.com/in/nicol%C3%A1s-castro-palma-324071274/)

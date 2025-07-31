@@ -36,5 +36,4 @@ I am passionate about leveraging data-driven approaches to uncover patterns in f
 I welcome contributions, ideas, and collaboration on open-source finance and data science projects. Feel free to **fork any repository** or open issues for discussion!
 
 ## Contact
-[Mail](mailto:nicolas.castro.palma@gmail.com)  
-[linkedin](https://www.linkedin.com/in/nicol%C3%A1s-castro-palma-324071274/)
+[Mail](mailto:nicolas.castro.palma@gmail.com) [linkedin](https://www.linkedin.com/in/nicol%C3%A1s-castro-palma-324071274/)

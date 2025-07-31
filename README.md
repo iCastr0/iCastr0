@@ -3,6 +3,8 @@
 <details open>
 <summary>English</summary>
 
+
+
 I am an aspiring Data Scientist with a strong focus on Quantitative Finance and Predictive Analytics. My work combines statistical modeling, machine learning, and financial theory to build data-driven solutions for complex problems in markets and business.
 
 ## Career Objective
